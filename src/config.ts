@@ -14,7 +14,7 @@ export const themeConfig: ThemeConfig = {
     // author name
     author: 'Cake',
     // site url
-    url: 'https://example.com',
+    url: 'https://telegram-internals.hidandelion.com',
     // base path
     // root directory for all pages and assets
     base: '/', // e.g., '/blog', '/docs'
